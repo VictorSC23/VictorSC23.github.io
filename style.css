@@ -1,0 +1,19 @@
+body{
+	background:#319208;
+	font-size: 22px;
+	color:white;
+	font-family: 'Bebas Neue', cursive;
+
+}
+
+hl{
+	text-align:center;
+	color:white;
+	font-family: 'Bebas Neue', cursive;
+}
+
+img{ 
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
