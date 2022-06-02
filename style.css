@@ -1,5 +1,6 @@
 body{
 	background:#319208;
+	background-image: -o-linear-gradient(RED);
 	font-size: 22px;
 	color:white;
 	font-family: 'Bebas Neue', cursive;
