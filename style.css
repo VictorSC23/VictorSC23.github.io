@@ -20,7 +20,7 @@ img{
 }
 
 a{
-	color:whitesmoke;
+	color:whitesmoke
 }
 
 a:hover{
@@ -28,5 +28,5 @@ a:hover{
 }
 
 a:visited{
-	color:darkblue
+	color:rgb(138, 11, 11)
 }
